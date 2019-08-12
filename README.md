@@ -1,2 +1,0 @@
-# BabyAttack
-semi-project
