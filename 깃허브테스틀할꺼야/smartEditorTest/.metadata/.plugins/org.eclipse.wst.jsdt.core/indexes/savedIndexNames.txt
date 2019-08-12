@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\user1\Documents\GitHub\BabyAttack\±êÇãºêÅ×½ºÆ²ÇÒ²¨¾ß\smartEditorTest\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2208691983.index
+1345954112.index
+1359143675.index
+1997500789.index
+3834023117.index
+1465618219.index
